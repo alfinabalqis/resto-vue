@@ -23,6 +23,38 @@
       "email": "zaid@test",
       "password": "12345678",
       "id": 4
+    },
+    {
+      "username": "widya",
+      "email": "widya@test.com",
+      "password": "widya123",
+      "id": 5
+    }
+  ],
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Burger King",
+      "contact": 2111,
+      "addres": "NY City"
+    },
+    {
+      "id": 2,
+      "name": "Burger",
+      "contact": 11,
+      "addres": "NY"
+    },
+    {
+      "id": 3,
+      "name": "King",
+      "contact": 2222,
+      "addres": "City"
+    },
+    {
+      "id": 4,
+      "name": "KFC",
+      "contact": 53411,
+      "addres": "PBG"
     }
   ]
 }
